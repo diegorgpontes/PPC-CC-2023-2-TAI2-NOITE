@@ -8,3 +8,5 @@ Nesta disciplina, exploraremos o método Lean Inception para a criação de um P
 
 O método Lean Inception é uma abordagem que envolve várias etapas colaborativas para definir e alinhar a visão, os objetivos e os requisitos de um projeto. É uma maneira eficaz de iniciar um projeto com um entendimento compartilhado e um plano claro de ação.
 
+### Vamos utilizar o espaço do GitHub Classroom para armazenar todos os documentos e artefatos produzidos.
+
