@@ -10,3 +10,7 @@ O método Lean Inception é uma abordagem que envolve várias etapas colaborativ
 
 ### Vamos utilizar o espaço do GitHub Classroom para armazenar todos os documentos e artefatos produzidos.
 
+
+
+
+
